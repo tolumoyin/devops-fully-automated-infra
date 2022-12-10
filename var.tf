@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "prodkey.pem"
+    default = "prodkey"
 }
 
 # variable "vpc_id" {
