@@ -109,6 +109,8 @@ Once both the above steps are done click on Save.
 
 #Cool Stuff
 
+#Next Step: Deploy Infra
+
 
 
 ## Finally observe the whole flow and understand the integrations :) 
